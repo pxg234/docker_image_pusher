@@ -1,5 +1,1 @@
-nimbix/centos-desktop
-roboxes/centos8
-opendatacube/wps
-ubuntu:22.04
-kasmweb/desktop
+kasmweb/desktop:1.16.0
