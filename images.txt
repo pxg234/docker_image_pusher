@@ -1,3 +1,1 @@
-filipsiroky/qt5-gui
-cm0x4d/ubuntu-qt5-cmake
-khipu/ubuntu-20.04-qt5
+vmware/vmware
