@@ -1,1 +1,1 @@
-vmware/vmware
+ubuntu:22.04
